@@ -4,13 +4,6 @@
 
 This Power BI dashboard analyzes Blinkit's retail sales performance across different outlet types, outlet sizes, locations, and product categories.
 
-## Dashboard KPIs
-
-- Total Sales: ₹10.56M
-- Average Sales: ₹2.3K
-- Number of Items: 4650
-- Average Rating: 4.7
-
 ## Features
 
 - Sales Analysis
@@ -26,9 +19,25 @@ This Power BI dashboard analyzes Blinkit's retail sales performance across diffe
 - Power Query
 - Excel
 
+
 ## Dashboard Preview
 
-Screenshot will be added below.
+![Blinkit Dashboard](blinkit%20dashboard.jpeg)
+
+## Key Insights
+
+- Total Sales: ₹10.56M
+- Average Sales: ₹2.3K
+- Number of Items: 4650
+- Average Rating: 4.7
+
+## Business Questions Answered
+
+- Which outlet types generate the highest sales?
+- How does outlet size impact revenue?
+- Which product categories perform best?
+- How do customer ratings vary across outlet types?
+- What trends can be observed in outlet establishments over time?
 
 ## Skills Demonstrated
 
