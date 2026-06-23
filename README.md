@@ -16,7 +16,7 @@ This repository contains projects developed using:
 
 Power BI dashboard analyzing retail sales performance, outlet efficiency, product categories, and customer ratings.
 
-📁 Project Folder: Blinkit-Sales-Analysis
+Project Folder: Blinkit-Sales-Analysis
 
 #### Skills Used
 - Data Cleaning
