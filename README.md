@@ -10,11 +10,13 @@ This repository contains projects developed using:
 - DAX
 - Power Query
 
-## Projects
+## Featured Projects
 
 ### Blinkit Retail Sales Analytics Dashboard
 
-An interactive Power BI dashboard designed to analyze sales performance, outlet efficiency, product categories, and customer ratings.
+Power BI dashboard analyzing retail sales performance, outlet efficiency, product categories, and customer ratings.
+
+📁 Project Folder: Blinkit-Sales-Analysis
 
 #### Skills Used
 - Data Cleaning
